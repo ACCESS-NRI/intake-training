@@ -4,5 +4,5 @@ All notebooks assume that you are working on Gadi in an environment with at leas
 
 ## Notebooks in this repo
 
-- (`cosima_wg_202309.ipynb`)[https://github.com/ACCESS-Hive/intake-training/blob/main/cosima_wg_202309.ipynb]: introduction to Intake and the ACCESS-NRI Intake catalog given to the COSIMA working group 21/09/2023
-- (`csiro_cvh_202309.ipynb`)[https://github.com/ACCESS-Hive/intake-training/blob/main/csiro_cvh_202309.ipynb]: Demonstration of the ACCESS-NRI Intake catalog given to CSIRO ACS members 21/09/2023
+- [`cosima_wg_202309.ipynb`](https://github.com/ACCESS-Hive/intake-training/blob/main/cosima_wg_202309.ipynb): introduction to Intake and the ACCESS-NRI Intake catalog given to the COSIMA working group 21/09/2023
+- [`csiro_cvh_202309.ipynb`](https://github.com/ACCESS-Hive/intake-training/blob/main/csiro_cvh_202309.ipynb): Demonstration of the ACCESS-NRI Intake catalog given to CSIRO ACS members 21/09/2023
